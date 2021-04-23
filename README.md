@@ -20,5 +20,4 @@ dimensional biological data that aid further analysis (e.g., Nguyen & Holmes 201
 recognition (Tabak et al. 2019), and include key skills such as cross-validation,
 
 5. **Optimization techniques** (Brian) will introduce mathematical and computational optimization
-methods that are used in applications ranging from experimental design (Braniff & Ingalls
-2018) to standard model analysis.
+methods that are used in applications ranging from experimental design (Braniff & Ingalls 2018) to standard model analysis.
