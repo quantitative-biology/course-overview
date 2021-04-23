@@ -63,3 +63,7 @@ Kim ...
 
 Brian ...
 
+## Workflow
+
+It's doubtful that we'll all be adding to this at the same time (so we probably won't get conflicts, famous last words...). So just fetch and rebase before editing and then pushing (hope that makes sense!).
+
