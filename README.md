@@ -1,5 +1,5 @@
 # course-overview
-Rough notes and ideas for the online course
+Notes and ideas for the online course
 
 From the proposal, the five modules are:
 
@@ -21,3 +21,43 @@ recognition (Tabak et al. 2019), and include key skills such as cross-validation
 
 5. **Optimization techniques** (Brian) will introduce mathematical and computational optimization
 methods that are used in applications ranging from experimental design (Braniff & Ingalls 2018) to standard model analysis.
+
+
+## Timeline
+
+Draft version up for early July, paying recruited testers July-Sept, each person would do one module. 
+18k total - 10k Kim buyout = 8k.
+Then revise and more broadly test.
+Feb 2022 goes live.
+
+
+## Further thoughts on each course
+
+### 1. Transparent research 
+
+Andy starting from lecture from previous course, then adapting.
+
+
+Random resources to maybe look at:
+
+More Git and GitHub  https://aosmith16.github.io/spring-r-topics/slides/week07_more_git.html#6
+
+From Twitter (and quite a lot of interest in the discussions) Alex Hill | The Art of Giving and Receiving Code Reviews (Gracefully)
+https://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/
+
+## 2. Reproducible analysis with dynamic documents 
+
+Andy starting from lecture from previous course, then adapting.
+
+## 3. Multivariate statistics 
+
+Kim ...
+
+## 4. Machine learning 
+
+Kim ...
+
+## 5. Optimization techniques
+
+Brian ...
+
