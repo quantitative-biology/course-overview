@@ -35,7 +35,9 @@ Feb 2022 goes live.
 
 ### 1. Transparent research 
 
-Andy starting from lecture from previous course, then adapting.
+Andy starting from lecture from previous course, then adapting. Full course is at https://github.com/pbs-assess/git-course
+
+Andy will send Kim the .pdf's of the lectures. 
 
 
 Random resources to maybe look at:
