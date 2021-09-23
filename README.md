@@ -1,3 +1,27 @@
+# ideas from testers
+
+- **additional materials**
+  1. A short module on regression?: including checking residuals, CI, 
+  2. formatting for journal submission
+  3. using github for collaborative text
+  4. github in rstudio
+  
+- **answers**: Separate is better so not tempted to cheat? Familiar format to have them at the end. Code need not be exact, but essential have the answers
+
+- **tidyverse** -not needed 
+
+- **hiding code to make things tidy**
+-show all, or point folks to full code in .rmd files?
+-need to mention .rmd available in rmarkdown module
+
+- **video**
+-useful github, but needed for stats/regression?
+
+- **external links**
+-provide links to external and internal links for background (e.g., info regarding "linear regression")
+
+- **feedback**
+-github module should mention tracking issue, and then point to the bookdown issue board
 # course-overview
 Notes and ideas for the online course. This is an overview and can link to the repositories for each of the five modules.
 
